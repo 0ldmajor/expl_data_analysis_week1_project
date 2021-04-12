@@ -1,2 +1,4 @@
 # expl_data_analysis_week1_project
-Coursera Course Project
+Coursera Course 
+Exploratory Data Analysis
+Week 1 Project
